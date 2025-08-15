@@ -93,9 +93,17 @@ DIVIDE(
     CALCULATE(SUM(Batting[Runs]), ALL(Batting[Player Name]))
 ) * 100
 
+
 Power BI Report Images
 
-![Dashboard_upload](https://github.com/user-attachments/assets/673bb9be-9bb3-40e6-bca1-05414fbfc436.jpg)
+<img width="1919" height="1016" alt="Screenshot 2025-08-15 165737" src="https://github.com/user-attachments/assets/d7ee074e-84e2-47e1-a059-eb9356738c84" />
+
+<img width="1919" height="1018" alt="Screenshot 2025-08-15 165802" src="https://github.com/user-attachments/assets/7f33771d-7087-444c-8809-1ff2b8052a59" />
+
+<img width="1919" height="1014" alt="Screenshot 2025-08-15 165817" src="https://github.com/user-attachments/assets/212a2e01-3a4e-4210-9d2d-e1d64ca29c88" />
+
+
+
 
 ![Dashboard_upload](https://github.com/user-attachments/assets/0dd14b9b-6f31-468a-9aee-955d6981bbdb.jpg)
 

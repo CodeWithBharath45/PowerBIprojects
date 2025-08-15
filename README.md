@@ -102,9 +102,3 @@ Power BI Report Images
 
 <img width="1919" height="1014" alt="Screenshot 2025-08-15 165817" src="https://github.com/user-attachments/assets/212a2e01-3a4e-4210-9d2d-e1d64ca29c88" />
 
-
-
-
-![Dashboard_upload](https://github.com/user-attachments/assets/0dd14b9b-6f31-468a-9aee-955d6981bbdb.jpg)
-
-![Dashboard_upload](https://github.com/user-attachments/assets/b8391991-214a-4eda-9254-63482a7c03e8.jpg)

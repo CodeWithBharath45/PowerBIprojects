@@ -2,7 +2,7 @@
 This repository showcases all my Power BI projects where i dive into different datasets, visualizations, and insights.It's a growing collection of my hands-on work with dashbords and reports.
 # Mumbai Indians IPL Stats Dashboard
 
-### Dashboard Link : https://app.powerbi.com/groups/me/reports/07699efa-5831-4db2-b2ce-0e8388e18114?experience=power-bi
+### Dashboard Link : https://app.powerbi.com/groups/me/reports/52cbcf35-df2a-4e37-bb74-3511142f7603/5b432ed5d6a4765ecacb?experience=power-bi
 
 ## Problem Statement
 
